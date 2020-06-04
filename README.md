@@ -16,6 +16,21 @@ Recent applications of machine learning, such as to robotic control, data mining
 
 ## Lecture 1
 
+Jul 23, 2008
+
+https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599&index=2&t=1761s
+
+Lecture by Professor Andrew Ng for Machine Learning (CS 229) in the Stanford Computer Science department.  
+
+Professor Ng provides an overview of the course in this introductory meeting. 
+
+This course provides a broad introduction to machine learning and statistical pattern recognition. 
+
+Topics include supervised learning, unsupervised learning, learning theory, reinforcement learning and adaptive control.   
+
+Recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing are also discussed.
+
+
 ## Lecture 2
 
 ## Lecture 3
