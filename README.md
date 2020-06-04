@@ -33,6 +33,23 @@ Recent applications of machine learning, such as to robotic control, data mining
 
 ## Lecture 2
 
+Jul 23, 2008
+
+
+https://www.youtube.com/watch?v=5u4G23_OohI&list=PLA89DCFA6ADACE599&index=3&t=2198s
+
+
+
+Lecture by Professor Andrew Ng for Machine Learning (CS 229) in the Stanford Computer Science department.  
+
+Professor Ng lectures on linear regression, gradient descent, and normal equations and discusses how they relate to machine learning. 
+
+This course provides a broad introduction to machine learning and statistical pattern recognition. 
+
+Topics include supervised learning, unsupervised learning, learning theory, reinforcement learning and adaptive control.   
+
+Recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing are also discussed.
+
 ## Lecture 3
 
 ## Lecture 4
