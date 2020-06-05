@@ -60,6 +60,8 @@ Recent applications of machine learning, such as to robotic control, data mining
 
 ## Lecture 7
 
+- Optimal Margin Classifier
+
 ## Lecture 8
 
 ## Lecture 9
