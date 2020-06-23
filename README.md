@@ -52,6 +52,10 @@ Recent applications of machine learning, such as to robotic control, data mining
 
 ## Lecture 3
 
+Jul 23, 2008
+
+https://www.youtube.com/watch?v=HZ4cvaztQEs&list=PLA89DCFA6ADACE599&index=3
+
 ## Lecture 4
 
 ## Lecture 5
