@@ -80,25 +80,66 @@ https://www.youtube.com/watch?v=tojaGtMPo5U&list=PLA89DCFA6ADACE599&index=9
 
 ## Lecture 10
 
+Jul 23, 2008
 
+https://www.youtube.com/watch?v=0kWZoyNRxTY&list=PLA89DCFA6ADACE599&index=11&t=0s
 
 ## Lecture 11
 
+Jul 23, 2008
+
+https://www.youtube.com/watch?v=sQ8T9b-uGVE&list=PLA89DCFA6ADACE599&index=11
+
 ## Lecture 12
+
+Jul 23, 2008
+
+https://www.youtube.com/watch?v=ZZGTuAkF-Hw&list=PLA89DCFA6ADACE599&index=12
 
 ## Lecture 13
 
+Jul 23, 2008
+
+https://www.youtube.com/watch?v=LBtuYU-HfUg&list=PLA89DCFA6ADACE599&index=13
+
 ## Lecture 14
+
+Jul 23, 2008
+
+https://www.youtube.com/watch?v=ey2PE5xi9-A&list=PLA89DCFA6ADACE599&index=14
 
 ## Lecture 15
 
+Jul 23, 2008
+
+https://www.youtube.com/watch?v=QGd06MTRMHs&list=PLA89DCFA6ADACE599&index=15
+
 ## Lecture 16
+
+Jul 23, 2008
+
+https://www.youtube.com/watch?v=RtxI449ZjSc&list=PLA89DCFA6ADACE599&index=16
 
 ## Lecture 17
 
+Jul 23, 2008
+
+https://www.youtube.com/watch?v=LKdFTsM3hl4&list=PLA89DCFA6ADACE599&index=17
+
 ## Lecture 18
+
+Jul 23, 2008
+
+https://www.youtube.com/watch?v=-ff6l5D8-j8&list=PLA89DCFA6ADACE599&index=18
 
 ## Lecture 19
 
+Jul 23, 2008
+
+https://www.youtube.com/watch?v=UFH5ibWnA7g&list=PLA89DCFA6ADACE599&index=19
+
 ## Lecture 20
 
+Jul 23, 2008
+
+https://www.youtube.com/watch?v=yCqPMD6coO8&list=PLA89DCFA6ADACE599&index=20
