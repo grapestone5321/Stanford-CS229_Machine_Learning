@@ -161,7 +161,7 @@ https://www.youtube.com/watch?v=ey2PE5xi9-A&list=PLA89DCFA6ADACE599&index=14
 
 ## Lecture 15
 
-Topics: Latent Semantic Indexing (LSI), Singular Value Decomposition (SVD) Implementation, Independent Component Analysis (ICA), The Application of ICA, Cumulative Distribution Function (CDF), ICA Algorithm, The Applications of ICA
+### Topics: Latent Semantic Indexing (LSI), Singular Value Decomposition (SVD) Implementation, Independent Component Analysis (ICA), The Application of ICA, Cumulative Distribution Function (CDF), ICA Algorithm, The Applications of ICA
 
 Jul 23, 2008
 
@@ -171,7 +171,12 @@ https://www.youtube.com/watch?v=QGd06MTRMHs&list=PLA89DCFA6ADACE599&index=15
 
 ## Lecture 16
 
-Topics: Applications of Reinforcement Learning, Markov Decision Process (MDP), Defining Value & Policy Functions, Value Function, Optimal Value Function, Value Iteration, Policy Iteration
+### Topics: 
+- Applications of Reinforcement Learning, 
+- Markov Decision Process (MDP), 
+- Defining Value & Policy Functions, 
+- Value Function, Optimal Value Function, 
+- Value Iteration, Policy Iteration
 
 Jul 23, 2008
 
