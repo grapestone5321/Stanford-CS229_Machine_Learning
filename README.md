@@ -351,6 +351,66 @@ https://www.youtube.com/watch?v=yCqPMD6coO8&list=PLA89DCFA6ADACE599&index=20
 
 # Lecture notes
 
+## Supervised learning
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes1.pdf
+
+## Part I: Linear Regression
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes1.pdf
+
+## Part II: Classiﬁcation and logistic regression
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes1.pdf
+
+## Part III: Generalized Linear Models
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes1.pdf
+
+## Part IV: Generative Learning algorithms
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes2.pdf
+
+## Part V: Support Vector Machines
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes3.pdf
+
+## Part VI: Learning Theory
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes4.pdf
+
+
+## Part VI: Regularization and model selection
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes5.pdf
+
+## 1 The perceptron and large margin classiﬁers
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes6.pdf
+
+
+## The k-means clustering algorithm
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes7a.pdf
+
+## Mixtures of Gaussians and the EM algorithm
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes7b.pdf
+
+
+## Part IX: The EM algorithm
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes8.pdf
+
+## Part X: Factor analysis
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes9.pdf
+
+## Part XI: Principal components analysis
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes10.pdf
+
+
 ## Part XII: Independent Components Analysis
 
 https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes11.pdf
