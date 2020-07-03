@@ -16,6 +16,7 @@ Topics include supervised learning, unsupervised learning, learning theory, rein
 
 Recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing are also discussed.
 
+# Lectures
 
 # Overview
 
@@ -213,7 +214,14 @@ https://www.youtube.com/watch?v=sQ8T9b-uGVE&list=PLA89DCFA6ADACE599&index=11
 
 ## Lecture 12
 
-### Topics: The Concept of Unsupervised Learning, K-means Clustering Algorithm, K-means Algorithm, Mixtures of Gaussians and the EM Algorithm, Jensen's Inequality, The EM Algorithm, Summary
+### Topics: 
+- The Concept of Unsupervised Learning, 
+- K-means Clustering Algorithm, 
+- K-means Algorithm, 
+- Mixtures of Gaussians and the EM Algorithm, 
+- Jensen's Inequality, 
+- The EM Algorithm, 
+- Summary
 
 Jul 23, 2008
 
@@ -221,7 +229,13 @@ https://www.youtube.com/watch?v=ZZGTuAkF-Hw&list=PLA89DCFA6ADACE599&index=12
 
 ## Lecture 13
 
-### Topics: Mixture of Gaussian, Mixture of Naive Bayes - Text clustering (EM Application), Factor Analysis, Restrictions on a Covariance Matrix, The Factor Analysis Model, EM for Factor Analysis
+### Topics: 
+- Mixture of Gaussian, 
+- Mixture of Naive Bayes - Text clustering (EM Application), 
+- Factor Analysis, 
+- Restrictions on a Covariance Matrix, 
+- The Factor Analysis Model, 
+- EM for Factor Analysis
 
 Jul 23, 2008
 
@@ -229,7 +243,12 @@ https://www.youtube.com/watch?v=LBtuYU-HfUg&list=PLA89DCFA6ADACE599&index=13
 
 ## Lecture 14
 
-### Topics: The Factor Analysis Model,0 EM for Factor Analysis, Principal Component Analysis (PCA), PCA as a Dimensionality Reduction Algorithm, Applications of PCA, Face Recognition by Using PCA
+### Topics: 
+- The Factor Analysis Model,0 EM for Factor Analysis, 
+- Principal Component Analysis (PCA), 
+- PCA as a Dimensionality Reduction Algorithm, 
+- Applications of PCA, 
+- Face Recognition by Using PCA
 
 Jul 23, 2008
 
@@ -237,7 +256,14 @@ https://www.youtube.com/watch?v=ey2PE5xi9-A&list=PLA89DCFA6ADACE599&index=14
 
 ## Lecture 15
 
-### Topics: Latent Semantic Indexing (LSI), Singular Value Decomposition (SVD) Implementation, Independent Component Analysis (ICA), The Application of ICA, Cumulative Distribution Function (CDF), ICA Algorithm, The Applications of ICA
+### Topics: 
+- Latent Semantic Indexing (LSI), 
+- Singular Value Decomposition (SVD) Implementation, 
+- Independent Component Analysis (ICA), 
+- The Application of ICA, 
+- Cumulative Distribution Function (CDF), 
+- ICA Algorithm, 
+- The Applications of ICA
 
 Jul 23, 2008
 
@@ -260,7 +286,12 @@ https://www.youtube.com/watch?v=RtxI449ZjSc&list=PLA89DCFA6ADACE599&index=16
 
 ## Lecture 17
 
-### Topics: Generalization to Continuous States, Discretization & Curse of Dimensionality, Models/Simulators, Fitted Value Iteration, Finding Optimal Policy
+### Topics: 
+- Generalization to Continuous States, 
+- Discretization & Curse of Dimensionality, 
+- Models/Simulators, 
+- Fitted Value Iteration, 
+- Finding Optimal Policy
 
 Jul 23, 2008
 
@@ -268,7 +299,14 @@ https://www.youtube.com/watch?v=LKdFTsM3hl4&list=PLA89DCFA6ADACE599&index=17
 
 ## Lecture 18
 
-### Topics: State-action Rewards, Finite Horizon MDPs, The Concept of Dynamical Systems, Examples of Dynamical Models, Linear Quadratic Regulation (LQR), Linearizing a Non-Linear Model, Computing Rewards, Riccati Equation
+### Topics: 
+- State-action Rewards, 
+- Finite Horizon MDPs, 
+- The Concept of Dynamical Systems, 
+- Examples of Dynamical Models, 
+- Linear Quadratic Regulation (LQR), 
+- Linearizing a Non-Linear Model, 
+- Computing Rewards, Riccati Equation
 
 Jul 23, 2008
 
@@ -276,7 +314,14 @@ https://www.youtube.com/watch?v=-ff6l5D8-j8&list=PLA89DCFA6ADACE599&index=18
 
 ## Lecture 19
 
-### Topics: Advice for Applying Machine Learning, Debugging Reinforcement Learning (RL) Algorithm, Linear Quadratic Regularization (LQR), Differential Dynamic Programming (DDP), Kalman Filter & Linear Quadratic Gaussian (LQG), Predict/update Steps of Kalman Filter, Linear Quadratic Gaussian (LQG)
+### Topics: 
+- Advice for Applying Machine Learning, 
+- Debugging Reinforcement Learning (RL) Algorithm, 
+- Linear Quadratic Regularization (LQR), 
+- Differential Dynamic Programming (DDP), 
+- Kalman Filter & Linear Quadratic Gaussian (LQG), 
+- Predict/update Steps of Kalman Filter, 
+- Linear Quadratic Gaussian (LQG)
 
 Jul 23, 2008
 
@@ -284,7 +329,13 @@ https://www.youtube.com/watch?v=UFH5ibWnA7g&list=PLA89DCFA6ADACE599&index=19
 
 ## Lecture 20
 
-### Topics: Partially Observable MDPs (POMDPs), Policy Search, Reinforce Algorithm, Pegasus Algorithm, Pegasus Policy Search, Applications of Reinforcement Learning
+### Topics: 
+- Partially Observable MDPs (POMDPs), 
+- Policy Search, 
+- Reinforce Algorithm, 
+- Pegasus Algorithm, 
+- Pegasus Policy Search, 
+- Applications of Reinforcement Learning
 
 Jul 23, 2008
 
