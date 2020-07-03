@@ -22,7 +22,14 @@ Recent applications of machine learning, such as to robotic control, data mining
 ## Lecture 1
 
 
-### Topics: The Motivation & Applications of Machine Learning, The Logistics of the Class, The Definition of Machine Learning, The Overview of Supervised Learning, The Overview of Learning Theory, The Overview of Unsupervised Learning, The Overview of Reinforcement Learning
+### Topics: 
+- The Motivation & Applications of Machine Learning, 
+- The Logistics of the Class, 
+- The Definition of Machine Learning, 
+- The Overview of Supervised Learning, 
+- The Overview of Learning Theory, 
+- The Overview of Unsupervised Learning, 
+- The Overview of Reinforcement Learning
 
 
 Jul 23, 2008
@@ -36,7 +43,15 @@ https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599&index=2&t=17
 
 
 
-### Topics: An Application of Supervised Learning - Autonomous Deriving, ALVINN, Linear Regression, Gradient Descent, Batch Gradient Descent, Stochastic Gradient Descent (Incremental Descent), Matrix Derivative Notation for Deriving Normal Equations, Derivation of Normal Equations
+### Topics:
+- An Application of Supervised Learning - Autonomous Deriving, 
+- ALVINN, 
+- Linear Regression, 
+- Gradient Descent, 
+- Batch Gradient Descent, 
+- Stochastic Gradient Descent (Incremental Descent), 
+- Matrix Derivative Notation for Deriving Normal Equations, 
+- Derivation of Normal Equations
 
 Jul 23, 2008
 
@@ -46,7 +61,14 @@ https://www.youtube.com/watch?v=5u4G23_OohI&list=PLA89DCFA6ADACE599&index=3&t=21
 ## Lecture 3
 
 
-### Topics: The Concept of Underfitting and Overfitting, The Concept of Parametric Algorithms and Non-parametric Algorithms, Locally Weighted Regression, The Probabilistic Interpretation of Linear Regression, The motivation of Logistic Regression, Logistic Regression, Perceptron
+### Topics: 
+- The Concept of Underfitting and Overfitting, 
+- The Concept of Parametric Algorithms and Non-parametric Algorithms, 
+- Locally Weighted Regression, 
+- The Probabilistic Interpretation of Linear Regression, 
+- The motivation of Logistic Regression, 
+- Logistic Regression, 
+- Perceptron
 
 Jul 23, 2008
 
@@ -56,7 +78,14 @@ https://www.youtube.com/watch?v=HZ4cvaztQEs&list=PLA89DCFA6ADACE599&index=3
 ## Lecture 4
 
 
-### Topics: Newton's Method, Exponential Family, Bernoulli Example, Gaussian Example, General Linear Models (GLMs), Multinomial Example, Softmax Regression
+### Topics: 
+- Newton's Method, 
+- Exponential Family, 
+- Bernoulli Example, 
+- Gaussian Example, 
+- General Linear Models (GLMs), 
+- Multinomial Example, 
+- Softmax Regression
 
 Jul 23, 2008
 
@@ -67,7 +96,13 @@ https://www.youtube.com/watch?v=nLKOQfKLUks&list=PLA89DCFA6ADACE599&index=5&t=0s
 
 
 
-### Topics: Discriminative Algorithms, Generative Algorithms, Gaussian Discriminant Analysis (GDA), GDA and Logistic Regression, Naive Bayes, Laplace Smoothing
+### Topics: 
+- Discriminative Algorithms, 
+- Generative Algorithms, 
+- Gaussian Discriminant Analysis (GDA), 
+- GDA and Logistic Regression, 
+- Naive Bayes, 
+- Laplace Smoothing
 
 Jul 23, 2008
 
@@ -76,7 +111,14 @@ https://www.youtube.com/watch?v=qRJ3GKMOFrE&list=PLA89DCFA6ADACE599&index=5
 ## Lecture 6
 
 
-### Topics: Multinomial Event Model, Non-linear Classifiers, Neural Network, Applications of Neural Network, Intuitions about Support Vector Machine (SVM), Notation for SVM, Functional and Geometric Margins
+### Topics: 
+- Multinomial Event Model, 
+- Non-linear Classifiers, 
+- Neural Network, 
+- Applications of Neural Network, 
+- Intuitions about Support Vector Machine (SVM), 
+- Notation for SVM, 
+- Functional and Geometric Margins
 
 Jul 23, 2008
 
@@ -87,7 +129,12 @@ https://www.youtube.com/watch?v=qyyJKd-zXRE&list=PLA89DCFA6ADACE599&index=6
 
 
 
-### Topics: Optimal Margin Classifier, Lagrange Duality, Karush-Kuhn-Tucker (KKT) Conditions, SVM Dual, The Concept of Kernels
+### Topics: 
+- Optimal Margin Classifier, 
+- Lagrange Duality, 
+- Karush-Kuhn-Tucker (KKT) Conditions, 
+- SVM Dual, 
+- The Concept of Kernels
 
 Jul 23, 2008
 
@@ -98,7 +145,13 @@ https://www.youtube.com/watch?v=s8B4A5ubw6c&list=PLA89DCFA6ADACE599&index=7
 
 
 
-### Topics: Kernels, Mercer's Theorem, Non-linear Decision Boundaries and Soft Margin SVM, Coordinate Ascent Algorithm, The Sequential Minimization Optimization (SMO) Algorithm, Applications of SVM
+### Topics: 
+- Kernels, 
+- Mercer's Theorem, 
+- Non-linear Decision Boundaries and Soft Margin SVM, 
+- Coordinate Ascent Algorithm, 
+- The Sequential Minimization Optimization (SMO) Algorithm, 
+- Applications of SVM
 
 
 Jul 23, 2008
@@ -107,7 +160,15 @@ https://www.youtube.com/watch?v=bUv9bfMPMb4&list=PLA89DCFA6ADACE599&index=8
 
 ## Lecture 9
 
-### Topics: Bias/variance Tradeoff, Empirical Risk Minimization (ERM), The Union Bound, Hoeffding Inequality, Uniform Convergence - The Case of Finite H, Sample Complexity Bound, Error Bound, Uniform Convergence Theorem & Corollary
+### Topics: 
+- Bias/variance Tradeoff, 
+- Empirical Risk Minimization (ERM), 
+- The Union Bound, 
+- Hoeffding Inequality, 
+- Uniform Convergence - The Case of Finite H, 
+- Sample Complexity Bound, 
+- Error Bound, 
+- Uniform Convergence Theorem & Corollary
 
 Jul 23, 2008
 
@@ -118,7 +179,13 @@ https://www.youtube.com/watch?v=tojaGtMPo5U&list=PLA89DCFA6ADACE599&index=9
 
 ## Lecture 10
 
-### Topics: Uniform Convergence - The Case of Infinite H, The Concept of 'Shatter' and VC Dimension, SVM Example, Model Selection, Cross Validation, Feature Selection
+### Topics: 
+- Uniform Convergence - The Case of Infinite H, 
+- The Concept of 'Shatter' and VC Dimension, 
+- SVM Example, 
+- Model Selection, 
+- Cross Validation, 
+- Feature Selection
 
 Jul 23, 2008
 
@@ -126,7 +193,16 @@ https://www.youtube.com/watch?v=0kWZoyNRxTY&list=PLA89DCFA6ADACE599&index=11&t=0
 
 ## Lecture 11
 
-### Topics: Bayesian Statistics and Regularization, Online Learning, Advice for Applying Machine Learning Algorithms, Debugging/fixing Learning Algorithms, Diagnostics for Bias & Variance, Optimization Algorithm Diagnostics, Diagnostic Example - Autonomous Helicopter, Error Analysis, Getting Started on a Learning Problem
+### Topics: 
+- Bayesian Statistics and Regularization, 
+- Online Learning, 
+- Advice for Applying Machine Learning Algorithms, 
+- Debugging/fixing Learning Algorithms, 
+- Diagnostics for Bias & Variance, 
+- Optimization Algorithm Diagnostics, 
+- Diagnostic Example - Autonomous Helicopter, 
+- Error Analysis, 
+- Getting Started on a Learning Problem
 
 Jul 23, 2008
 
