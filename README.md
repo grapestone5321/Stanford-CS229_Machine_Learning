@@ -359,13 +359,39 @@ https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/mast
 
 https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes1.pdf
 
+### 1 LMS algorithm
+### 2 The normal equations
+### 2.1 Matrix derivatives 
+### 2.2 Least squares revisited
+### 3 Probabilistic interpretation
+### 4 Locally weighted linear regression 
+
+
+
+
 ## Part II: Classiﬁcation and logistic regression
 
 https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes1.pdf
 
+### 5 Logistic regression
+### 6 Digression: The perceptron learning algorithm
+### 7 Another algorithm for maximizing ℓ(θ)
+
+
+
 ## Part III: Generalized Linear Models
 
 https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes1.pdf
+
+### 8 The exponential family
+### 9 Constructing GLMs
+### 9.1 Ordinary Least Squares
+### 9.2 Logistic Regression
+### 9.3 Softmax Regression
+
+
+
+
 
 ## Part IV: Generative Learning algorithms
 
