@@ -347,3 +347,18 @@ https://www.youtube.com/watch?v=UFH5ibWnA7g&list=PLA89DCFA6ADACE599&index=19
 Jul 23, 2008
 
 https://www.youtube.com/watch?v=yCqPMD6coO8&list=PLA89DCFA6ADACE599&index=20
+
+
+# Lecture notes
+
+## Part XII: Independent Components Analysis
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes11.pdf
+
+
+## Part XIII: Reinforcement Learning and Control
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes12.pdf
+
+
+
