@@ -1,6 +1,10 @@
 # Stanford-CS229_Machine_Learning
 Stanford Lecture Collection Machine Learning
 
+### Course Schedule
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/materials/schedule.pdf
+
 Last updated on Sep 25, 2014
 
 https://www.youtube.com/view_play_list?p=A89DCFA6ADACE599
@@ -18,7 +22,7 @@ Recent applications of machine learning, such as to robotic control, data mining
 
 # Lectures
 
-# Overview
+# Introduction
 
 ## Lecture 1
 
@@ -140,6 +144,9 @@ https://www.youtube.com/watch?v=qyyJKd-zXRE&list=PLA89DCFA6ADACE599&index=6
 Jul 23, 2008
 
 https://www.youtube.com/watch?v=s8B4A5ubw6c&list=PLA89DCFA6ADACE599&index=7
+
+
+# Learning theory
 
 ## Lecture 8
 
@@ -269,7 +276,7 @@ Jul 23, 2008
 
 https://www.youtube.com/watch?v=QGd06MTRMHs&list=PLA89DCFA6ADACE599&index=15
 
-# Reinforcement Learning
+# Reinforcement Learning and control
 
 ## Lecture 16
 
