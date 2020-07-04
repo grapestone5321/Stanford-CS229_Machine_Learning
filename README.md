@@ -449,6 +449,8 @@ https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/mast
 
 
 ### 1 Cross validation
+### 2 Feature Selection
+### 3 Bayesian statistics and regularization
 
 
 
