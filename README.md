@@ -397,18 +397,63 @@ https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/mast
 
 https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes2.pdf
 
+### 1 Gaussian discriminant analysis
+### 1.1 The multivariate normal distribution
+### 1.2 The Gaussian Discriminant Analysis model
+### 1.3 Discussion: GDA and logistic regression
+### 2 Naive Bayes
+### 2.1 Laplace smoothing
+### 2.2 Event models for text classiﬁcation
+
+
+
+
 ## Part V: Support Vector Machines
 
 https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes3.pdf
+
+### 1 Margins: Intuition
+### 2 Notation
+### 3 Functional and geometric margins
+### 4 The optimal margin classiﬁer
+### 5 Lagrange duality
+### 6 Optimal margin classiﬁers
+### 7 Kernels
+### 8 Regularization and the non-separable case
+### 9 The SMO algorithm
+### 9.1 Coordinate ascent
+### 9.2 SMO
+
+
 
 ## Part VI: Learning Theory
 
 https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes4.pdf
 
 
+### 1 Bias/variance tradeoﬀ
+### 2 Preliminaries
+### 3 The case of ﬁnite H 
+### 4 The case of inﬁnite H 
+
+
+
+
+
+
+
+
 ## Part VI: Regularization and model selection
 
 https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes5.pdf
+
+
+### 1 Cross validation
+
+
+
+
+
 
 ## 1 The perceptron and large margin classiﬁers
 
