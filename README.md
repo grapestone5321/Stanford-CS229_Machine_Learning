@@ -457,16 +457,18 @@ https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/mast
 
 
 
-## 1 The perceptron and large margin classiﬁers
+## Part VII: 
+### 1 The perceptron and large margin classiﬁers
 
 https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes6.pdf
 
 
-## The k-means clustering algorithm
+## Part VIII: 
+### The k-means clustering algorithm
 
 https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes7a.pdf
 
-## Mixtures of Gaussians and the EM algorithm
+### Mixtures of Gaussians and the EM algorithm
 
 https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes7b.pdf
 
@@ -475,13 +477,36 @@ https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/mast
 
 https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes8.pdf
 
+
+### 1 Jensen’s inequality
+### 2 The EM algorithm
+### 3 Mixture of Gaussians revisited
+
+
+
+
+
 ## Part X: Factor analysis
 
 https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes9.pdf
 
+
+### 1 Restrictions of Σ
+### 2 Marginals and conditionals of Gaussians
+### 3 The Factor analysis model
+### 4 EM for factor analysis
+
+
+
+
 ## Part XI: Principal components analysis
 
 https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes10.pdf
+
+
+
+
+
 
 
 ## Part XII: Independent Components Analysis
@@ -489,9 +514,27 @@ https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/mast
 https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes11.pdf
 
 
+### 1 ICA ambiguities
+### 2 Densities and linear transformations
+### 3 ICA algorithm
+
+
+
+
+
+
+
 ## Part XIII: Reinforcement Learning and Control
 
 https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes12.pdf
+
+### 1 Markov decision processes
+### 2 Value iteration and policy iteration
+### 3 Learning a model for an MDP
+
+
+
+
 
 
 
