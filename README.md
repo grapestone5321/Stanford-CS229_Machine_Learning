@@ -20,6 +20,10 @@ Topics include supervised learning, unsupervised learning, learning theory, rein
 
 Recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing are also discussed.
 
+# List of related AI Classes
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/materials/AI-classes.pdf
+
 # Lectures
 
 # Introduction
