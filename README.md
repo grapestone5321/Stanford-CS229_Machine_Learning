@@ -34,7 +34,7 @@ https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/mast
 
 # Lectures
 
-# Introduction
+## Introduction
 
 ## Lecture 1
 
@@ -54,7 +54,7 @@ Jul 23, 2008
 https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599&index=2&t=1761s
 
 
-# Supervised Learning
+## Supervised Learning
 
 ## Lecture 2
 
@@ -158,7 +158,7 @@ Jul 23, 2008
 https://www.youtube.com/watch?v=s8B4A5ubw6c&list=PLA89DCFA6ADACE599&index=7
 
 
-# Learning theory
+## Learning theory
 
 ## Lecture 8
 
@@ -229,7 +229,7 @@ Jul 23, 2008
 https://www.youtube.com/watch?v=sQ8T9b-uGVE&list=PLA89DCFA6ADACE599&index=11
 
 
-# Unsupervised Learning
+## Unsupervised Learning
 
 ## Lecture 12
 
@@ -288,7 +288,7 @@ Jul 23, 2008
 
 https://www.youtube.com/watch?v=QGd06MTRMHs&list=PLA89DCFA6ADACE599&index=15
 
-# Reinforcement Learning and control
+## Reinforcement Learning and control
 
 ## Lecture 16
 
