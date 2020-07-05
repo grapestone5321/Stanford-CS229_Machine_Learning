@@ -290,6 +290,10 @@ https://www.youtube.com/watch?v=QGd06MTRMHs&list=PLA89DCFA6ADACE599&index=15
 
 ## Reinforcement Learning and control
 
+### notes:
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes12.pdf
+
 ## Lecture 16
 
 ### Topics: 
