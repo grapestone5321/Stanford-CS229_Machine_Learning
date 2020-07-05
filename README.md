@@ -18,6 +18,12 @@ Topics include supervised learning, unsupervised learning, learning theory, rein
 
 Recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing are also discussed.
 
+
+### Course Information
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/materials/info.pdf
+
+
 ### Course Schedule
 
 https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/materials/schedule.pdf
