@@ -33,6 +33,12 @@ https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/mast
 
 https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/materials/AI-classes.pdf
 
+### Convex Optimization Overview
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/materials/cs229-cvxopt.pdf
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/materials/cs229-cvxopt2.pdf
+
 # Lectures
 
 ## Introduction
