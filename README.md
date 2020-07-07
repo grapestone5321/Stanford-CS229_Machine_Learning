@@ -134,6 +134,9 @@ https://www.youtube.com/watch?v=qRJ3GKMOFrE&list=PLA89DCFA6ADACE599&index=5
 
 ## Lecture 6
 
+### notes:
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes3.pdf
 
 ### Topics: 
 - Multinomial Event Model, 
@@ -151,7 +154,9 @@ https://www.youtube.com/watch?v=qyyJKd-zXRE&list=PLA89DCFA6ADACE599&index=6
 
 ## Lecture 7
 
+### notes:
 
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes3.pdf
 
 ### Topics: 
 - Optimal Margin Classifier, 
@@ -169,8 +174,9 @@ https://www.youtube.com/watch?v=s8B4A5ubw6c&list=PLA89DCFA6ADACE599&index=7
 
 ## Lecture 8
 
+### notes:
 
-
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/notes/cs229-notes3.pdf
 
 ### Topics: 
 - Kernels, 
