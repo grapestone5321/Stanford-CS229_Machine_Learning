@@ -197,6 +197,11 @@ Jul 23, 2008
 
 https://www.youtube.com/watch?v=bUv9bfMPMb4&list=PLA89DCFA6ADACE599&index=8
 
+
+### transcript
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/transcript/MachineLearning-Lecture08.pdf
+
 ## Lecture 9
 
 ### Topics: 
@@ -213,8 +218,9 @@ Jul 23, 2008
 
 https://www.youtube.com/watch?v=tojaGtMPo5U&list=PLA89DCFA6ADACE599&index=9
 
+### transcript
 
-
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/transcript/MachineLearning-Lecture09.pdf
 
 ## Lecture 10
 
@@ -229,6 +235,11 @@ https://www.youtube.com/watch?v=tojaGtMPo5U&list=PLA89DCFA6ADACE599&index=9
 Jul 23, 2008
 
 https://www.youtube.com/watch?v=0kWZoyNRxTY&list=PLA89DCFA6ADACE599&index=11&t=0s
+
+
+### transcript
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/transcript/MachineLearning-Lecture10.pdf
 
 ## Lecture 11
 
@@ -246,6 +257,11 @@ https://www.youtube.com/watch?v=0kWZoyNRxTY&list=PLA89DCFA6ADACE599&index=11&t=0
 Jul 23, 2008
 
 https://www.youtube.com/watch?v=sQ8T9b-uGVE&list=PLA89DCFA6ADACE599&index=11
+
+
+### transcript
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/transcript/MachineLearning-Lecture11.pdf
 
 
 ## Unsupervised Learning
