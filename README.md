@@ -45,6 +45,11 @@ https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/mast
 
 https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/materials/cs229-gp.pdf
 
+
+### Probability Theory Review for Machine Learning
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/materials/cs229-prob.pdf
+
 # Lectures
 
 ## Introduction
