@@ -285,6 +285,11 @@ Jul 23, 2008
 
 https://www.youtube.com/watch?v=LBtuYU-HfUg&list=PLA89DCFA6ADACE599&index=13
 
+
+### transcript
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/transcript/MachineLearning-Lecture13.pdf
+
 ## Lecture 14
 
 ### Topics: 
@@ -297,6 +302,11 @@ https://www.youtube.com/watch?v=LBtuYU-HfUg&list=PLA89DCFA6ADACE599&index=13
 Jul 23, 2008
 
 https://www.youtube.com/watch?v=ey2PE5xi9-A&list=PLA89DCFA6ADACE599&index=14
+
+
+### transcript
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/transcript/MachineLearning-Lecture14.pdf
 
 ## Lecture 15
 
@@ -312,6 +322,13 @@ https://www.youtube.com/watch?v=ey2PE5xi9-A&list=PLA89DCFA6ADACE599&index=14
 Jul 23, 2008
 
 https://www.youtube.com/watch?v=QGd06MTRMHs&list=PLA89DCFA6ADACE599&index=15
+
+
+
+### transcript
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/transcript/MachineLearning-Lecture15.pdf
+
 
 ## Reinforcement Learning and control
 
