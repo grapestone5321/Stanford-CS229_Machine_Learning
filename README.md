@@ -72,6 +72,11 @@ Jul 23, 2008
 https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599&index=2&t=1761s
 
 
+### transcript
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/transcript/MachineLearning-Lecture01.pdf
+
+
 ## Supervised Learning
 
 ## Lecture 2
@@ -93,6 +98,12 @@ Jul 23, 2008
 
 https://www.youtube.com/watch?v=5u4G23_OohI&list=PLA89DCFA6ADACE599&index=3&t=2198s
 
+
+### transcript
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/transcript/MachineLearning-Lecture02.pdf
+
+
 ## Lecture 3
 
 
@@ -109,6 +120,11 @@ Jul 23, 2008
 
 https://www.youtube.com/watch?v=HZ4cvaztQEs&list=PLA89DCFA6ADACE599&index=3
 
+
+
+### transcript
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/transcript/MachineLearning-Lecture03.pdf
 
 ## Lecture 4
 
@@ -127,6 +143,11 @@ Jul 23, 2008
 https://www.youtube.com/watch?v=nLKOQfKLUks&list=PLA89DCFA6ADACE599&index=5&t=0s
 
 
+### transcript
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/transcript/MachineLearning-Lecture04.pdf
+
+
 ## Lecture 5
 
 
@@ -142,6 +163,14 @@ https://www.youtube.com/watch?v=nLKOQfKLUks&list=PLA89DCFA6ADACE599&index=5&t=0s
 Jul 23, 2008
 
 https://www.youtube.com/watch?v=qRJ3GKMOFrE&list=PLA89DCFA6ADACE599&index=5
+
+
+
+
+### transcript
+
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/transcript/MachineLearning-Lecture05.pdf
 
 ## Lecture 6
 
@@ -162,6 +191,11 @@ Jul 23, 2008
 
 https://www.youtube.com/watch?v=qyyJKd-zXRE&list=PLA89DCFA6ADACE599&index=6
 
+### transcript
+
+
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/transcript/MachineLearning-Lecture06.pdf
 
 ## Lecture 7
 
@@ -180,6 +214,11 @@ Jul 23, 2008
 
 https://www.youtube.com/watch?v=s8B4A5ubw6c&list=PLA89DCFA6ADACE599&index=7
 
+
+### transcript
+
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/transcript/MachineLearning-Lecture07.pdf
 
 ## Learning theory
 
