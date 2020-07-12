@@ -265,6 +265,12 @@ Jul 23, 2008
 
 https://www.youtube.com/watch?v=ZZGTuAkF-Hw&list=PLA89DCFA6ADACE599&index=12
 
+
+### transcript
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/transcript/MachineLearning-Lecture12.pdf
+
+
 ## Lecture 13
 
 ### Topics: 
