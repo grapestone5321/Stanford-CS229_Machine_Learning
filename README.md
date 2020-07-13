@@ -412,6 +412,9 @@ https://www.youtube.com/watch?v=RtxI449ZjSc&list=PLA89DCFA6ADACE599&index=16
 
 ### transcript
 
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/transcript/MachineLearning-Lecture16.pdf
+
+
 ## Lecture 17
 
 ### Topics: 
@@ -427,6 +430,9 @@ https://www.youtube.com/watch?v=LKdFTsM3hl4&list=PLA89DCFA6ADACE599&index=17
 
 
 ### transcript
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/transcript/MachineLearning-Lecture17.pdf
+
 
 ## Lecture 18
 
@@ -446,6 +452,7 @@ https://www.youtube.com/watch?v=-ff6l5D8-j8&list=PLA89DCFA6ADACE599&index=18
 
 ### transcript
 
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/transcript/MachineLearning-Lecture18.pdf
 
 ## Lecture 19
 
