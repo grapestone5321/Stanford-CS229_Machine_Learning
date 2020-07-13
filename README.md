@@ -409,6 +409,9 @@ Jul 23, 2008
 
 https://www.youtube.com/watch?v=RtxI449ZjSc&list=PLA89DCFA6ADACE599&index=16
 
+
+### transcript
+
 ## Lecture 17
 
 ### Topics: 
@@ -421,6 +424,9 @@ https://www.youtube.com/watch?v=RtxI449ZjSc&list=PLA89DCFA6ADACE599&index=16
 Jul 23, 2008
 
 https://www.youtube.com/watch?v=LKdFTsM3hl4&list=PLA89DCFA6ADACE599&index=17
+
+
+### transcript
 
 ## Lecture 18
 
@@ -437,6 +443,10 @@ Jul 23, 2008
 
 https://www.youtube.com/watch?v=-ff6l5D8-j8&list=PLA89DCFA6ADACE599&index=18
 
+
+### transcript
+
+
 ## Lecture 19
 
 ### Topics: 
@@ -452,6 +462,10 @@ Jul 23, 2008
 
 https://www.youtube.com/watch?v=UFH5ibWnA7g&list=PLA89DCFA6ADACE599&index=19
 
+
+### transcript
+
+
 ## Lecture 20
 
 ### Topics: 
@@ -466,6 +480,8 @@ Jul 23, 2008
 
 https://www.youtube.com/watch?v=yCqPMD6coO8&list=PLA89DCFA6ADACE599&index=20
 
+
+### transcript
 
 # Lecture notes
 
