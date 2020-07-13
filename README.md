@@ -472,6 +472,7 @@ https://www.youtube.com/watch?v=UFH5ibWnA7g&list=PLA89DCFA6ADACE599&index=19
 
 ### transcript
 
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/transcript/MachineLearning-Lecture19.pdf
 
 ## Lecture 20
 
@@ -489,6 +490,8 @@ https://www.youtube.com/watch?v=yCqPMD6coO8&list=PLA89DCFA6ADACE599&index=20
 
 
 ### transcript
+
+https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/transcript/MachineLearning-Lecture20.pdf
 
 # Lecture notes
 
