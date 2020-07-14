@@ -4,7 +4,6 @@ Stanford Lecture Collection Machine Learning
 
 
 
-
 Last updated on Sep 25, 2014
 
 https://www.youtube.com/view_play_list?p=A89DCFA6ADACE599
